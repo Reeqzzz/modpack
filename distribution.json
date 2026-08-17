@@ -28,8 +28,8 @@
               "name": "NeoForge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 21253,
-                "MD5": "13fc4e83f3467ca47f2040f0f93001da",
+                "size": 16375,
+                "MD5": "2dda0a41d691fa40204c990153e95c3a",
                 "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/neoforge-21.1.248.json"
               }
             },
