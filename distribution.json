@@ -973,6 +973,39 @@
           }
         },
         {
+          "id": "nld:dungeonsarise:1.0.0",
+          "name": "DungeonsArise",
+          "type": "File",
+          "artifact": {
+            "size": 11842679,
+            "MD5": "8c803078cb52411a40201d6e69a23529",
+            "path": "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/DungeonsArise-1.21.1-2.1.68-release.jar"
+          }
+        },
+        {
+          "id": "nld:dungeonsarisesevenseas:1.0.0",
+          "name": "DungeonsAriseSevenSeas",
+          "type": "File",
+          "artifact": {
+            "size": 244981,
+            "MD5": "827e9c4c003954c1d1a0ebccd1cbf2d9",
+            "path": "mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar"
+          }
+        },
+        {
+          "id": "nld:explorerscompass:1.0.0",
+          "name": "ExplorersCompass",
+          "type": "File",
+          "artifact": {
+            "size": 174668,
+            "MD5": "ae974c3bc9992e3998931c9f812e643c",
+            "path": "mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
+          }
+        },
+        {
           "id": "nld:farmerd_naturalist_compat:1.0.0",
           "name": "farmerd_naturalist_compat",
           "type": "File",
@@ -1160,6 +1193,17 @@
           }
         },
         {
+          "id": "nld:lootr-neoforge:1.0.0",
+          "name": "lootr-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 994419,
+            "MD5": "64c4cc3c9254606f4fd2b21d51559459",
+            "path": "mods/lootr-neoforge-1.21.1-1.11.38.123.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/lootr-neoforge-1.21.1-1.11.38.123.jar"
+          }
+        },
+        {
           "id": "nld:l_ender's cataclysm :1.0.0",
           "name": "L_Ender's Cataclysm ",
           "type": "File",
@@ -1344,6 +1388,17 @@
             "MD5": "5d66ea358691d2686f6a3a4e6eff910e",
             "path": "mods/naturalist-2.0.3-neoforge-1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/naturalist-2.0.3-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "nld:naturescompass:1.0.0",
+          "name": "NaturesCompass",
+          "type": "File",
+          "artifact": {
+            "size": 224657,
+            "MD5": "1cb785707bea10cfc5018fe37247963c",
+            "path": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
           }
         },
         {
