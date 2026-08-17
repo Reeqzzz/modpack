@@ -1774,6 +1774,17 @@
             "path": "config/fancymenu/customization/title_screen_layout.txt",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_customization_title_screen_layout.txt"
           }
+        },
+        {
+          "id": "nld:config:fancymenu/options.txt",
+          "name": "fancymenu/options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4400,
+            "MD5": "9b56c7cdb8e7b010ea1475462a1a5667",
+            "path": "config/fancymenu/options.txt",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_options.txt"
+          }
         }
       ]
     }
