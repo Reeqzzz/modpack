@@ -1758,10 +1758,32 @@
           "name": "fancymenu/customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 149,
-            "MD5": "39258e860af82448f75579dfa8077eb6",
+            "size": 271,
+            "MD5": "955edaa57de5e545a37d4d98526a7102",
             "path": "config/fancymenu/customizablemenus.txt",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_customizablemenus.txt"
+          }
+        },
+        {
+          "id": "nld:config:fancymenu/customization/join_multiplayer_screen_layout.txt",
+          "name": "fancymenu/customization/join_multiplayer_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 30196,
+            "MD5": "a545411329ae1ff1a77c405d5ff92af7",
+            "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_customization_join_multiplayer_screen_layout.txt"
+          }
+        },
+        {
+          "id": "nld:config:fancymenu/customization/pause_screen_layout.txt",
+          "name": "fancymenu/customization/pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 41113,
+            "MD5": "00ec19d07056b7be76e058a3233403ac",
+            "path": "config/fancymenu/customization/pause_screen_layout.txt",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_customization_pause_screen_layout.txt"
           }
         },
         {
