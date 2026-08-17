@@ -4,8 +4,8 @@
   "servers": [
     {
       "id": "NLD-1.21.1",
-      "name": "Serveur NLD",
-      "description": "Serveur principal de la communaute NLD.",
+      "name": "Survie Moddée NLD",
+      "description": "Serveur Survie Moddée NLD",
       "icon": "",
       "version": "1.0.0",
       "address": "nld-mc.duckdns.org:38742",
