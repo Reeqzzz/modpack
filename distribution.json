@@ -34,6 +34,16 @@
               }
             },
             {
+              "id": "net.neoforged:neoforge:21.1.248:universal",
+              "name": "NeoForge (universal)",
+              "type": "Library",
+              "artifact": {
+                "size": 3551268,
+                "MD5": "7f785a4d65644293f4c591b5109788ee",
+                "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/neoforge-21.1.248-universal.jar"
+              }
+            },
+            {
               "id": "net.neoforged.fancymodloader:earlydisplay:4.0.43",
               "name": "net.neoforged.fancymodloader:earlydisplay:4.0.43",
               "type": "Library",
@@ -791,7 +801,7 @@
             "size": 3771506,
             "MD5": "866d83d2cc87ed791c5ce419e497032d",
             "path": "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/createbigcannons-5.11.7%2Bmc.1.21.1.jar"
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/createbigcannons-5.11.7+mc.1.21.1.jar"
           }
         },
         {
@@ -824,7 +834,7 @@
             "size": 45837,
             "MD5": "f6cdcd99da07652b27bfc858a2393b88",
             "path": "mods/CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/CreateOPlenty-NeoForge-Create%2B6.0.7-3.0.jar"
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar"
           }
         },
         {
@@ -901,7 +911,7 @@
             "size": 410690,
             "MD5": "e8f0a3574264bb202c153b90293dc84c",
             "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/curios-neoforge-9.5.1%2B1.21.1.jar"
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/curios-neoforge-9.5.1+1.21.1.jar"
           }
         },
         {
@@ -1099,7 +1109,7 @@
             "size": 954028,
             "MD5": "cfbcf4d1be760ea595639cc4c5053062",
             "path": "mods/lithostitched-1.8.0+beta4-neoforge-21.1.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/lithostitched-1.8.0%2Bbeta4-neoforge-21.1.jar"
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/lithostitched-1.8.0+beta4-neoforge-21.1.jar"
           }
         },
         {
@@ -1231,7 +1241,7 @@
             "size": 599474,
             "MD5": "b488341cd5172f6bb16b5ec6d0856c4d",
             "path": "mods/modernfix-neoforge-5.27.20+mc1.21.1.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar"
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/modernfix-neoforge-5.27.20+mc1.21.1.jar"
           }
         },
         {
@@ -1286,7 +1296,7 @@
             "size": 203149,
             "MD5": "ecb81c9479605db12a77bea774b88406",
             "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/player-animation-lib-forge-2.0.4+1.21.1.jar"
           }
         },
         {
@@ -1308,7 +1318,7 @@
             "size": 12118736,
             "MD5": "a1e93677459b11e2b4edbe01998ffdbd",
             "path": "mods/railways-0.2.1+neoforge-mc1.21.1.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/railways-0.2.1%2Bneoforge-mc1.21.1.jar"
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/railways-0.2.1+neoforge-mc1.21.1.jar"
           }
         },
         {
