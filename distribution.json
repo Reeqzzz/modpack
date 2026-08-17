@@ -17,6 +17,7 @@
           "id": "net.neoforged:neoforge:21.1.248",
           "name": "NeoForge",
           "type": "ForgeHosted",
+          "classpath": false,
           "artifact": {
             "size": 5675624,
             "MD5": "0fe7826ecbb207c9be2ffd718828f559",
@@ -37,6 +38,7 @@
               "id": "net.neoforged:neoforge:21.1.248:universal",
               "name": "NeoForge (universal)",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 3551268,
                 "MD5": "7f785a4d65644293f4c591b5109788ee",
