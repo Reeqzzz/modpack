@@ -47,6 +47,7 @@
               "id": "net.minecraft:client:1.21.1-20240808.144430:srg",
               "name": "Minecraft client (srg)",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 18725656,
                 "MD5": "24d790d385dff0146020f1875b969e52",
@@ -58,6 +59,7 @@
               "id": "net.minecraft:client:1.21.1-20240808.144430:extra",
               "name": "Minecraft client (extra)",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 12372293,
                 "MD5": "973b9700852b66bb7b74df75b0113db2",
