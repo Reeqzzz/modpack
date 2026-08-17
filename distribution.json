@@ -555,940 +555,1034 @@
         {
           "id": "nld:addonslib-neoforge:1.0.0",
           "name": "addonslib-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 131893,
             "MD5": "bc0f0ac951dc1eefa85cb422aeec1e37",
+            "path": "mods/addonslib-neoforge-1.21.1-1.14.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/addonslib-neoforge-1.21.1-1.14.jar"
           }
         },
         {
           "id": "nld:alexscaves:1.0.0",
           "name": "alexscaves",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 74900204,
             "MD5": "74665c33ea59098145597e1aee139526",
+            "path": "mods/alexscaves-2.0.10.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/alexscaves-2.0.10.jar"
           }
         },
         {
           "id": "nld:alexsmobs:1.0.0",
           "name": "alexsmobs",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 26620546,
             "MD5": "87970b4846bffc20123ecd267d888ee8",
+            "path": "mods/alexsmobs-1.22.17.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/alexsmobs-1.22.17.jar"
           }
         },
         {
           "id": "nld:appleskin-neoforge-mc:1.0.0",
           "name": "appleskin-neoforge-mc",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 75804,
             "MD5": "db5fe7619d502cf5b9bc972a955cd3bc",
+            "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/appleskin-neoforge-mc1.21-3.0.9.jar"
           }
         },
         {
           "id": "nld:architectury:1.0.0",
           "name": "architectury",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 584734,
             "MD5": "aefbea361809755c331126bcff6e6d3e",
+            "path": "mods/architectury-13.0.11-neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/architectury-13.0.11-neoforge.jar"
           }
         },
         {
           "id": "nld:artifacts-neoforge:1.0.0",
           "name": "artifacts-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1030252,
             "MD5": "fc38eab4a40582c383e6dbd118d49ef4",
+            "path": "mods/artifacts-neoforge-13.2.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/artifacts-neoforge-13.2.1.jar"
           }
         },
         {
           "id": "nld:athena-neoforge:1.0.0",
           "name": "athena-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 99944,
             "MD5": "0c22a1ec59e5ce22eef1b614fda59b42",
+            "path": "mods/athena-neoforge-1.21.1-4.0.6.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/athena-neoforge-1.21.1-4.0.6.jar"
           }
         },
         {
           "id": "nld:balm-neoforge:1.0.0",
           "name": "balm-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 783793,
             "MD5": "ffd35f57254160816b17db7e66f196a8",
+            "path": "mods/balm-neoforge-1.21.1-21.0.65.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/balm-neoforge-1.21.1-21.0.65.jar"
           }
         },
         {
           "id": "nld:betterarcheology-neoforge:1.0.0",
           "name": "betterarcheology-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 3106762,
             "MD5": "94ba3812cfa281355b43d2101073e37b",
+            "path": "mods/betterarcheology-neoforge-1.21.1-1.3.8.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/betterarcheology-neoforge-1.21.1-1.3.8.jar"
           }
         },
         {
           "id": "nld:better_lib-neoforge:1.0.0",
           "name": "better_lib-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 291935,
             "MD5": "45744ad2d7d536fab7132e2201fe7bab",
+            "path": "mods/better_lib-neoforge-1.21.1-1.0.111.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/better_lib-neoforge-1.21.1-1.0.111.jar"
           }
         },
         {
           "id": "nld:biomesoplenty-neoforge:1.0.0",
           "name": "BiomesOPlenty-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 22338157,
             "MD5": "abb725a66aaac6c9ed4b93db25380aa8",
+            "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar"
           }
         },
         {
           "id": "nld:carryon-neoforge:1.0.0",
           "name": "carryon-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 361486,
             "MD5": "2cf051fdf9bd99b6311138d55b595e75",
+            "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/carryon-neoforge-1.21.1-2.2.6.13.jar"
           }
         },
         {
           "id": "nld:cbcaeronautics missiles :1.0.0",
           "name": "CBCAeronautics Missiles ",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 270037,
             "MD5": "643b3833fe8de7153088a7d9b9b33fa5",
+            "path": "mods/CBCAeronautics Missiles 0.1.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/CBCAeronautics%20Missiles%200.1.0.jar"
           }
         },
         {
           "id": "nld:chipped-neoforge:1.0.0",
           "name": "chipped-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 15020578,
             "MD5": "f8fd65f72a903abd0bcbd3bf6bc09524",
+            "path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/chipped-neoforge-1.21.1-4.0.2.jar"
           }
         },
         {
           "id": "nld:chunky-neoforge:1.0.0",
           "name": "Chunky-NeoForge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 340572,
             "MD5": "c461f3132c48d7bc71a9f2b307273a88",
+            "path": "mods/Chunky-NeoForge-1.4.23.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Chunky-NeoForge-1.4.23.jar"
           }
         },
         {
           "id": "nld:citadel:1.0.0",
           "name": "citadel",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 3028943,
             "MD5": "f489330f610335c782c61ce8815b16f1",
+            "path": "mods/citadel-1.21.1-2.7.6.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/citadel-1.21.1-2.7.6.jar"
           }
         },
         {
           "id": "nld:clumps-neoforge:1.0.0",
           "name": "Clumps-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 18382,
             "MD5": "8b42a9d7a72bde90fa061d17e2859e7b",
+            "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Clumps-neoforge-1.21.1-19.0.0.1.jar"
           }
         },
         {
           "id": "nld:create:1.0.0",
           "name": "create",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 19123767,
             "MD5": "179189c52b45a469e683570be4e77188",
+            "path": "mods/create-1.21.1-6.0.10.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create-1.21.1-6.0.10.jar"
           }
         },
         {
           "id": "nld:create-aeronautics-bundled:1.0.0",
           "name": "create-aeronautics-bundled",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 33120013,
             "MD5": "27e0597b184778e49f1b4d5351bedc60",
+            "path": "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create-aeronautics-bundled-1.21.1-1.3.0.jar"
           }
         },
         {
           "id": "nld:create-enchantment-industry:1.0.0",
           "name": "create-enchantment-industry",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1283517,
             "MD5": "4bf7e32d49403b73f0782f6f2d80f000",
+            "path": "mods/create-enchantment-industry-2.4.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create-enchantment-industry-2.4.2.jar"
           }
         },
         {
           "id": "nld:createaddition:1.0.0",
           "name": "createaddition",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1661802,
             "MD5": "f401e28d795486a83db6dd714486d3e2",
+            "path": "mods/createaddition-1.6.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/createaddition-1.6.0.jar"
           }
         },
         {
           "id": "nld:createbigcannons:1.0.0",
           "name": "createbigcannons",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 3771506,
             "MD5": "866d83d2cc87ed791c5ce419e497032d",
+            "path": "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/createbigcannons-5.11.7%2Bmc.1.21.1.jar"
           }
         },
         {
           "id": "nld:createdeco:1.0.0",
           "name": "createdeco",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 3328498,
             "MD5": "16d5818298f6332038528cd13bd4ff1a",
+            "path": "mods/createdeco-2.1.3.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/createdeco-2.1.3.jar"
           }
         },
         {
           "id": "nld:createdragonsplus:1.0.0",
           "name": "CreateDragonsPlus",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1038830,
             "MD5": "d7a4ae525b16f4b05eb63b7e3f518128",
+            "path": "mods/CreateDragonsPlus-1.11.7b.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/CreateDragonsPlus-1.11.7b.jar"
           }
         },
         {
           "id": "nld:createoplenty-neoforge-create+:1.0.0",
           "name": "CreateOPlenty-NeoForge-Create+",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 45837,
             "MD5": "f6cdcd99da07652b27bfc858a2393b88",
+            "path": "mods/CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/CreateOPlenty-NeoForge-Create%2B6.0.7-3.0.jar"
           }
         },
         {
           "id": "nld:createpropulsion:1.0.0",
           "name": "createpropulsion",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1707765,
             "MD5": "054843664d3bef2d61e6e492503fd824",
+            "path": "mods/createpropulsion-1.1.5.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/createpropulsion-1.1.5.jar"
           }
         },
         {
           "id": "nld:create_better_motors:1.0.0",
           "name": "create_better_motors",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 397376,
             "MD5": "323dcfc4b0bde0d65a2da81fe6796413",
+            "path": "mods/create_better_motors-4.0.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create_better_motors-4.0.0.jar"
           }
         },
         {
           "id": "nld:create_enchantment_industry_plus:1.0.0",
           "name": "create_enchantment_industry_plus",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 50475,
             "MD5": "6e9c873a943b611fb368b7b026253c45",
+            "path": "mods/create_enchantment_industry_plus-1.1.1-1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create_enchantment_industry_plus-1.1.1-1.21.1.jar"
           }
         },
         {
           "id": "nld:create_radar:1.0.0",
           "name": "create_radar",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 2990812,
             "MD5": "6b68a2d7204f0aa344e4770c8715b7a8",
+            "path": "mods/create_radar-0.4.9.4-1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create_radar-0.4.9.4-1.21.1.jar"
           }
         },
         {
           "id": "nld:create_simulated_thrusters:1.0.0",
           "name": "create_simulated_thrusters",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 298484,
             "MD5": "484083b73f800b1136acef5ecb3d966b",
+            "path": "mods/create_simulated_thrusters-1.21.1-NeoForge-1.1.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create_simulated_thrusters-1.21.1-NeoForge-1.1.1.jar"
           }
         },
         {
           "id": "nld:create_tsr:1.0.0",
           "name": "create_tsr",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 182236,
             "MD5": "1424b55c94c5edd746e716b49e4267d4",
+            "path": "mods/create_tsr-1.1.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create_tsr-1.1.0.jar"
           }
         },
         {
           "id": "nld:curios-neoforge:1.0.0",
           "name": "curios-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 410690,
             "MD5": "e8f0a3574264bb202c153b90293dc84c",
+            "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/curios-neoforge-9.5.1%2B1.21.1.jar"
           }
         },
         {
           "id": "nld:design-n-decor:1.0.0",
           "name": "Design-n-Decor",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 6329899,
             "MD5": "18a1bbc60ad9084d3bdff5eed4b8f953",
+            "path": "mods/Design-n-Decor-1.21.1-2.2b.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Design-n-Decor-1.21.1-2.2b.jar"
           }
         },
         {
           "id": "nld:farmerd_naturalist_compat:1.0.0",
           "name": "farmerd_naturalist_compat",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 53765,
             "MD5": "6cd14d5e90f3b6466b4afde94f0c31f0",
+            "path": "mods/farmerd_naturalist_compat-0.2-1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/farmerd_naturalist_compat-0.2-1.21.1.jar"
           }
         },
         {
           "id": "nld:farmersdelight:1.0.0",
           "name": "FarmersDelight",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 3163042,
             "MD5": "60186e1b39385ecae70ff2f194ef7c32",
+            "path": "mods/FarmersDelight-1.21.1-1.3.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/FarmersDelight-1.21.1-1.3.2.jar"
           }
         },
         {
           "id": "nld:ferritecore:1.0.0",
           "name": "ferritecore",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 121559,
             "MD5": "e0374dac41d6c641903f9e241911e1d3",
+            "path": "mods/ferritecore-7.0.3-neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/ferritecore-7.0.3-neoforge.jar"
           }
         },
         {
           "id": "nld:geckolib-neoforge:1.0.0",
           "name": "geckolib-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 630584,
             "MD5": "5cf29155ad6071b5dcba2ea24cd27350",
+            "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/geckolib-neoforge-1.21.1-4.9.2.jar"
           }
         },
         {
           "id": "nld:glitchcore-neoforge:1.0.0",
           "name": "GlitchCore-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 90717,
             "MD5": "3bdf763d2461aa2731ed3515e0761d2f",
+            "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
           }
         },
         {
           "id": "nld:gravestone-neoforge:1.0.0",
           "name": "gravestone-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 321850,
             "MD5": "c0e4a3d7182f801b7ba75bf3da0e53fe",
+            "path": "mods/gravestone-neoforge-1.21.1-1.0.38.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/gravestone-neoforge-1.21.1-1.0.38.jar"
           }
         },
         {
           "id": "nld:handcrafted-neoforge:1.0.0",
           "name": "handcrafted-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 7132842,
             "MD5": "0f875f5741a6fad6f1c4f6fdbe5f538b",
+            "path": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/handcrafted-neoforge-1.21.1-4.0.3.jar"
           }
         },
         {
           "id": "nld:inventorysorter:1.0.0",
           "name": "inventorysorter",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 53363,
             "MD5": "e8321c269a1843029c7170a1e1c28873",
+            "path": "mods/inventorysorter-1.21.1-24.0.24.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/inventorysorter-1.21.1-24.0.24.jar"
           }
         },
         {
           "id": "nld:irons_lib:1.0.0",
           "name": "irons_lib",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 406284,
             "MD5": "5ac685e3e5ce76a9c80d0e865769bd60",
+            "path": "mods/irons_lib-1.21.1-2.1.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/irons_lib-1.21.1-2.1.0.jar"
           }
         },
         {
           "id": "nld:irons_spellbooks:1.0.0",
           "name": "irons_spellbooks",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 13874139,
             "MD5": "1982cbf9474f89a4d0f08c9aeba73607",
+            "path": "mods/irons_spellbooks-1.21.1-3.16.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/irons_spellbooks-1.21.1-3.16.2.jar"
           }
         },
         {
           "id": "nld:jade:1.0.0",
           "name": "Jade",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 726853,
             "MD5": "67b89f182472859d1e478477716c9462",
+            "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Jade-1.21.1-NeoForge-15.10.6.jar"
           }
         },
         {
           "id": "nld:jei:1.0.0",
           "name": "jei",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1697362,
             "MD5": "6aff35392c2a73c0fe72138301948f4a",
+            "path": "mods/jei-1.21.1-neoforge-19.44.0.401.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/jei-1.21.1-neoforge-19.44.0.401.jar"
           }
         },
         {
           "id": "nld:journeymap-neoforge:1.0.0",
           "name": "journeymap-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 4283584,
             "MD5": "2177d33f1b7e6d917f8b8c399a26378c",
+            "path": "mods/journeymap-neoforge-1.21.1-6.0.5.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/journeymap-neoforge-1.21.1-6.0.5.jar"
           }
         },
         {
           "id": "nld:letsdo-bakery-neoforge:1.0.0",
           "name": "letsdo-bakery-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1039749,
             "MD5": "ccb24b224eee89ed70b8cd5f777fc6ae",
+            "path": "mods/letsdo-bakery-neoforge-2.1.6.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/letsdo-bakery-neoforge-2.1.6.jar"
           }
         },
         {
           "id": "nld:letsdo-farm_and_charm-neoforge:1.0.0",
           "name": "letsdo-farm_and_charm-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 2586013,
             "MD5": "d0898653149f9c43e48756e58329e4d5",
+            "path": "mods/letsdo-farm_and_charm-neoforge-1.1.23.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/letsdo-farm_and_charm-neoforge-1.1.23.jar"
           }
         },
         {
           "id": "nld:lionfishapi:1.0.0",
           "name": "lionfishapi",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 91596,
             "MD5": "6103fe4848d0f8289431a0b307efc444",
+            "path": "mods/lionfishapi-3.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/lionfishapi-3.1.jar"
           }
         },
         {
           "id": "nld:lithostitched:1.0.0",
           "name": "lithostitched",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 954028,
             "MD5": "cfbcf4d1be760ea595639cc4c5053062",
+            "path": "mods/lithostitched-1.8.0+beta4-neoforge-21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/lithostitched-1.8.0%2Bbeta4-neoforge-21.1.jar"
           }
         },
         {
           "id": "nld:l_ender's cataclysm :1.0.0",
           "name": "L_Ender's Cataclysm ",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 73362730,
             "MD5": "89c2a14bcc9aebf4c5cb287628f7b994",
+            "path": "mods/L_Ender's Cataclysm 1.21.1-3.32.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/L_Ender's%20Cataclysm%201.21.1-3.32.jar"
           }
         },
         {
           "id": "nld:mcw-bridges:1.0.0",
           "name": "mcw-bridges",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 661387,
             "MD5": "d234155911dfd171acdd0b3b7f330448",
+            "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
           }
         },
         {
           "id": "nld:mcw-doors:1.0.0",
           "name": "mcw-doors",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1190404,
             "MD5": "af8ff4803b80715eb3eeb9bc77d704cf",
+            "path": "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mcw-doors-1.1.5-mc1.21.1neoforge.jar"
           }
         },
         {
           "id": "nld:mcw-furniture:1.0.0",
           "name": "mcw-furniture",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 2080436,
             "MD5": "bef925460c964754872b28a13b2e2a74",
+            "path": "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mcw-furniture-3.4.1-mc1.21.1neoforge.jar"
           }
         },
         {
           "id": "nld:mcw-lights:1.0.0",
           "name": "mcw-lights",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 525744,
             "MD5": "0f20931a0d57acc36e2938669b25ac62",
+            "path": "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mcw-lights-1.1.5-mc1.21.1neoforge.jar"
           }
         },
         {
           "id": "nld:mcw-mcwfences:1.0.0",
           "name": "mcw-mcwfences",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 673871,
             "MD5": "7fe97d3a691052ec301fcd538000577c",
+            "path": "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar"
           }
         },
         {
           "id": "nld:mcw-mcwwindows:1.0.0",
           "name": "mcw-mcwwindows",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1261268,
             "MD5": "fb18ea4529ea3670eb5e621ab900ced7",
+            "path": "mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
           }
         },
         {
           "id": "nld:mcw-roofs:1.0.0",
           "name": "mcw-roofs",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1784829,
             "MD5": "9f72bf86f91b80effe1baefb5858926b",
+            "path": "mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mcw-roofs-2.3.2-mc1.21.1neoforge.jar"
           }
         },
         {
           "id": "nld:mcw-trapdoors:1.0.0",
           "name": "mcw-trapdoors",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 572870,
             "MD5": "e7262c5ffe9d64ddd42052db09bc86ad",
+            "path": "mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar"
           }
         },
         {
           "id": "nld:mcwbiomesoplenty-neoforge:1.0.0",
           "name": "mcwbiomesoplenty-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 7018204,
             "MD5": "65adbd782f750ad49feb4888a4d98969",
+            "path": "mods/mcwbiomesoplenty-neoforge-1.21.1-1.6.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mcwbiomesoplenty-neoforge-1.21.1-1.6.jar"
           }
         },
         {
           "id": "nld:melody_neoforge:1.0.0",
           "name": "melody_neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 36096,
             "MD5": "875f4a68f2cd7ee2cc135904653c93d4",
+            "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/melody_neoforge_1.0.10_MC_1.21.jar"
           }
         },
         {
           "id": "nld:modernfix-neoforge:1.0.0",
           "name": "modernfix-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 599474,
             "MD5": "b488341cd5172f6bb16b5ec6d0856c4d",
+            "path": "mods/modernfix-neoforge-5.27.20+mc1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar"
           }
         },
         {
           "id": "nld:moonlight:1.0.0",
           "name": "moonlight",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 2150988,
             "MD5": "ce5231f113f2724f1d8c0bc10bdadd31",
+            "path": "mods/moonlight-1.21.1-3.3.4-neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/moonlight-1.21.1-3.3.4-neoforge.jar"
           }
         },
         {
           "id": "nld:morepropulsion:1.0.0",
           "name": "morepropulsion",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 783700,
             "MD5": "fcc525e616b13af06e9d272fd211944e",
+            "path": "mods/morepropulsion-1.3.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/morepropulsion-1.3.0.jar"
           }
         },
         {
           "id": "nld:naturalist:1.0.0",
           "name": "naturalist",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 11309342,
             "MD5": "5d66ea358691d2686f6a3a4e6eff910e",
+            "path": "mods/naturalist-2.0.3-neoforge-1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/naturalist-2.0.3-neoforge-1.21.1.jar"
           }
         },
         {
           "id": "nld:placebo:1.0.0",
           "name": "Placebo",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 324058,
             "MD5": "208b373fb2bdc703cdd2e087753ed859",
+            "path": "mods/Placebo-1.21.1-9.9.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Placebo-1.21.1-9.9.2.jar"
           }
         },
         {
           "id": "nld:player-animation-lib-forge:1.0.0",
           "name": "player-animation-lib-forge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 203149,
             "MD5": "ecb81c9479605db12a77bea774b88406",
+            "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
           }
         },
         {
           "id": "nld:portablespawner-neoforge:1.0.0",
           "name": "portablespawner-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 9400,
             "MD5": "106588a9ae0b4774d2e837371c78927e",
+            "path": "mods/portablespawner-neoforge-1.21.1-1.0.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/portablespawner-neoforge-1.21.1-1.0.0.jar"
           }
         },
         {
           "id": "nld:railways:1.0.0",
           "name": "railways",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 12118736,
             "MD5": "a1e93677459b11e2b4edbe01998ffdbd",
+            "path": "mods/railways-0.2.1+neoforge-mc1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/railways-0.2.1%2Bneoforge-mc1.21.1.jar"
           }
         },
         {
           "id": "nld:resourcefulconfig-neoforge:1.0.0",
           "name": "resourcefulconfig-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 341009,
             "MD5": "84ff2805a591b10d22b7e0c69b44246c",
+            "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/resourcefulconfig-neoforge-1.21-3.0.11.jar"
           }
         },
         {
           "id": "nld:resourcefullib-neoforge:1.0.0",
           "name": "resourcefullib-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 484332,
             "MD5": "32da88903167d24bb20febeeb2c79225",
+            "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/resourcefullib-neoforge-1.21-3.0.12.jar"
           }
         },
         {
           "id": "nld:ritchiesprojectilelib:1.0.0",
           "name": "ritchiesprojectilelib",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 76369,
             "MD5": "1772f7d2ef79cdb3e77ff0335fe7f3f8",
+            "path": "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
           }
         },
         {
           "id": "nld:sable-neoforge:1.0.0",
           "name": "sable-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 12889000,
             "MD5": "66ce01f745ab0ce5941e4070ae5eb949",
+            "path": "mods/sable-neoforge-1.21.1-2.0.3.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sable-neoforge-1.21.1-2.0.3.jar"
           }
         },
         {
           "id": "nld:searchables-neoforge:1.0.0",
           "name": "Searchables-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 77326,
             "MD5": "0a0a8665bb4d77e3f8139750cb98d9e4",
+            "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Searchables-neoforge-1.21.1-1.0.2.jar"
           }
         },
         {
           "id": "nld:sophisticatedbackpacks:1.0.0",
           "name": "sophisticatedbackpacks",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1172284,
             "MD5": "e18309d33146381c0872cd08d3c36cfe",
+            "path": "mods/sophisticatedbackpacks-1.21.1-3.25.77.2086.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sophisticatedbackpacks-1.21.1-3.25.77.2086.jar"
           }
         },
         {
           "id": "nld:sophisticatedcore:1.0.0",
           "name": "sophisticatedcore",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1686878,
             "MD5": "0972f0b2cf719d31bcb85f83d9cccfc6",
+            "path": "mods/sophisticatedcore-1.21.1-1.4.87.2270.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sophisticatedcore-1.21.1-1.4.87.2270.jar"
           }
         },
         {
           "id": "nld:supplementaries:1.0.0",
           "name": "supplementaries",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 13494310,
             "MD5": "a4c5492ddf0ddf26b00cdbe278c9c452",
+            "path": "mods/supplementaries-1.21.1-3.8.10-neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/supplementaries-1.21.1-3.8.10-neoforge.jar"
           }
         },
         {
           "id": "nld:swem:1.0.0",
           "name": "swem",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 12182794,
             "MD5": "9b6868bdda01587d3ca4f330be0acdde",
+            "path": "mods/swem-1.21.1-1.6.12.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/swem-1.21.1-1.6.12.jar"
           }
         },
         {
           "id": "nld:terrablender-neoforge:1.0.0",
           "name": "TerraBlender-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 120364,
             "MD5": "9510cef4ca24d7f6bc3144dbf6693f7d",
+            "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
           }
         },
         {
           "id": "nld:terralith:1.0.0",
           "name": "Terralith",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 2814865,
             "MD5": "d55b018bc4038a08d7a409800994aa63",
+            "path": "mods/Terralith_1.21.x_v2.6.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Terralith_1.21.x_v2.6.2.jar"
           }
         },
         {
           "id": "nld:twilightforest:1.0.0",
           "name": "twilightforest",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 27154121,
             "MD5": "c1e465c8b2855902368ff4679e1fc2e7",
+            "path": "mods/twilightforest-1.21.1-4.8.3345-universal.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/twilightforest-1.21.1-4.8.3345-universal.jar"
           }
         },
         {
           "id": "nld:waystones-neoforge:1.0.0",
           "name": "waystones-neoforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1217415,
             "MD5": "7ce116cc180af277241ff51983a99128",
+            "path": "mods/waystones-neoforge-1.21.1-21.1.41.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/waystones-neoforge-1.21.1-21.1.41.jar"
           }
         },
         {
           "id": "nld:xaeros_waystones_compatibility-neoforge:1.0.0",
           "name": "xaeros_waystones_compatibility-NeoForge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 7308,
             "MD5": "a07e19d66508a8595d9998657e637757",
+            "path": "mods/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar"
           }
         },
         {
           "id": "nld:yungsapi:1.0.0",
           "name": "YungsApi",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 388678,
             "MD5": "4a27558e0a2fd72512b051525c9abeaf",
+            "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsApi-1.21.1-NeoForge-5.1.6.jar"
           }
         },
         {
           "id": "nld:yungsbettercaves:1.0.0",
           "name": "YungsBetterCaves",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 392794,
             "MD5": "e8f75fcce267c573338af2dd1f0a1e68",
+            "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar"
           }
         },
         {
           "id": "nld:yungsbetterdeserttemples:1.0.0",
           "name": "YungsBetterDesertTemples",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 905839,
             "MD5": "b82db719aea459c2529f12bcc835366f",
+            "path": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
           }
         },
         {
           "id": "nld:yungsbetterdungeons:1.0.0",
           "name": "YungsBetterDungeons",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 782160,
             "MD5": "91ab689aec35d6929682c147be2d57ed",
+            "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
           }
         },
         {
           "id": "nld:yungsbetterendisland:1.0.0",
           "name": "YungsBetterEndIsland",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 398130,
             "MD5": "19262cc94f95f04dafe9d1bbb34dd856",
+            "path": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
           }
         },
         {
           "id": "nld:yungsbetterjungletemples:1.0.0",
           "name": "YungsBetterJungleTemples",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 795839,
             "MD5": "6a1327dda25d75ea551b7fc01c25b963",
+            "path": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
           }
         },
         {
           "id": "nld:yungsbettermineshafts:1.0.0",
           "name": "YungsBetterMineshafts",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 493967,
             "MD5": "f81789d1443949d17089130feba53710",
+            "path": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
           }
         },
         {
           "id": "nld:yungsbetternetherfortresses:1.0.0",
           "name": "YungsBetterNetherFortresses",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 609639,
             "MD5": "29c1c85f6c9e55ae75397983fb07b9bb",
+            "path": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
           }
         },
         {
           "id": "nld:yungsbetteroceanmonuments:1.0.0",
           "name": "YungsBetterOceanMonuments",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1025571,
             "MD5": "4ab69c30540c6a583c047a696ae97658",
+            "path": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
           }
         },
         {
           "id": "nld:yungsbetterstrongholds:1.0.0",
           "name": "YungsBetterStrongholds",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 461244,
             "MD5": "43266a72adc75ba8bb2e234e065e6139",
+            "path": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
           }
         },
         {
           "id": "nld:yungsbetterwitchhuts:1.0.0",
           "name": "YungsBetterWitchHuts",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 174789,
             "MD5": "a8a2a58513cc30de918f0fa50dc7a4a4",
+            "path": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
           }
         }
