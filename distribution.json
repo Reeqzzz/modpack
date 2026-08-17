@@ -775,6 +775,17 @@
           }
         },
         {
+          "id": "nld:controlling-neoforge:1.0.0",
+          "name": "Controlling-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 77555,
+            "MD5": "7141c2d0bb774dc6e4481be32b685179",
+            "path": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Controlling-neoforge-1.21.1-19.0.5.jar"
+          }
+        },
+        {
           "id": "nld:create:1.0.0",
           "name": "create",
           "type": "File",
@@ -951,6 +962,39 @@
           }
         },
         {
+          "id": "nld:drippyloadingscreen_neoforge:1.0.0",
+          "name": "drippyloadingscreen_neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 168632,
+            "MD5": "41953cf1db90494f98f97f915716a016",
+            "path": "mods/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "nld:entityculling-neoforge:1.0.0",
+          "name": "entityculling-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 1585287,
+            "MD5": "efb6e5638cd09578c0aaaa396c9bfa84",
+            "path": "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "nld:fancymenu_neoforge:1.0.0",
+          "name": "fancymenu_neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 25905546,
+            "MD5": "e93722832a5a3e4535db0452d2954c67",
+            "path": "mods/fancymenu_neoforge_3.9.10_MC_1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_neoforge_3.9.10_MC_1.21.1.jar"
+          }
+        },
+        {
           "id": "nld:farmerd_naturalist_compat:1.0.0",
           "name": "farmerd_naturalist_compat",
           "type": "File",
@@ -1039,6 +1083,28 @@
           }
         },
         {
+          "id": "nld:iris-flywheel-compat-neoforge:1.0.0",
+          "name": "iris-flywheel-compat-NeoForge",
+          "type": "File",
+          "artifact": {
+            "size": 907133,
+            "MD5": "9d3b7b83bd5747f1825cecf3f80fba26",
+            "path": "mods/iris-flywheel-compat-NeoForge-2.4.0.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/iris-flywheel-compat-NeoForge-2.4.0.jar"
+          }
+        },
+        {
+          "id": "nld:iris-neoforge:1.0.0",
+          "name": "iris-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 2540723,
+            "MD5": "6b68276a6718656ec476cfac69dfe013",
+            "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+          }
+        },
+        {
           "id": "nld:irons_lib:1.0.0",
           "name": "irons_lib",
           "type": "File",
@@ -1091,6 +1157,17 @@
             "MD5": "2177d33f1b7e6d917f8b8c399a26378c",
             "path": "mods/journeymap-neoforge-1.21.1-6.0.5.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/journeymap-neoforge-1.21.1-6.0.5.jar"
+          }
+        },
+        {
+          "id": "nld:konkrete_neoforge:1.0.0",
+          "name": "konkrete_neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 618842,
+            "MD5": "6e77d08299ea1ec7756a299263bc469b",
+            "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/konkrete_neoforge_1.9.9_MC_1.21.jar"
           }
         },
         {
@@ -1292,6 +1369,17 @@
           }
         },
         {
+          "id": "nld:mousetweaks-neoforge-mc:1.0.0",
+          "name": "MouseTweaks-neoforge-mc",
+          "type": "File",
+          "artifact": {
+            "size": 73938,
+            "MD5": "4ab6e808a59fdebecfbc92438b85b470",
+            "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+          }
+        },
+        {
           "id": "nld:naturalist:1.0.0",
           "name": "naturalist",
           "type": "File",
@@ -1402,6 +1490,17 @@
           }
         },
         {
+          "id": "nld:sodium-neoforge:1.0.0",
+          "name": "sodium-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 1291418,
+            "MD5": "c0d728fccffb8365ba45e6ae4b15e5cc",
+            "path": "mods/sodium-neoforge-0.8.12+mc1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sodium-neoforge-0.8.12+mc1.21.1.jar"
+          }
+        },
+        {
           "id": "nld:sophisticatedbackpacks:1.0.0",
           "name": "sophisticatedbackpacks",
           "type": "File",
@@ -1465,6 +1564,17 @@
             "MD5": "d55b018bc4038a08d7a409800994aa63",
             "path": "mods/Terralith_1.21.x_v2.6.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Terralith_1.21.x_v2.6.2.jar"
+          }
+        },
+        {
+          "id": "nld:toastcontrol:1.0.0",
+          "name": "ToastControl",
+          "type": "File",
+          "artifact": {
+            "size": 21079,
+            "MD5": "1f83b8749f48753bb50d9e22e5f6706c",
+            "path": "mods/ToastControl-1.21.1-9.0.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/ToastControl-1.21.1-9.0.1.jar"
           }
         },
         {
@@ -1619,6 +1729,39 @@
             "MD5": "a8a2a58513cc30de918f0fa50dc7a4a4",
             "path": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+          }
+        },
+        {
+          "id": "nld:config:drippyloadingscreen/options.txt",
+          "name": "drippyloadingscreen/options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2465,
+            "MD5": "8cb60f41a51a70a5c4912e3d24d904b6",
+            "path": "config/drippyloadingscreen/options.txt",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/drippyloadingscreen_options.txt"
+          }
+        },
+        {
+          "id": "nld:config:fancymenu/assets/minecraft_title.png",
+          "name": "fancymenu/assets/minecraft_title.png",
+          "type": "File",
+          "artifact": {
+            "size": 134115,
+            "MD5": "51a8df1804c280a63db30b0da5684e53",
+            "path": "config/fancymenu/assets/minecraft_title.png",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_assets_minecraft_title.png"
+          }
+        },
+        {
+          "id": "nld:config:fancymenu/customization/title_screen_layout.txt",
+          "name": "fancymenu/customization/title_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 59422,
+            "MD5": "faeaa16fa672c176027028feace7f9b0",
+            "path": "config/fancymenu/customization/title_screen_layout.txt",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_customization_title_screen_layout.txt"
           }
         }
       ]
