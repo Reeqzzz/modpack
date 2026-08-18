@@ -1523,6 +1523,17 @@
           }
         },
         {
+          "id": "nld:spark:1.0.0",
+          "name": "spark",
+          "type": "File",
+          "artifact": {
+            "size": 3642581,
+            "MD5": "a61dd250e618f8fd62fc6b0943831c50",
+            "path": "mods/spark-1.10.124-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/spark-1.10.124-neoforge.jar"
+          }
+        },
+        {
           "id": "nld:structurize:1.0.0",
           "name": "structurize",
           "type": "File",
