@@ -1483,10 +1483,10 @@
           "name": "sable-neoforge",
           "type": "File",
           "artifact": {
-            "size": 12889000,
-            "MD5": "66ce01f745ab0ce5941e4070ae5eb949",
-            "path": "mods/sable-neoforge-1.21.1-2.0.3.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sable-neoforge-1.21.1-2.0.3.jar"
+            "size": 12986136,
+            "MD5": "01ee2d5fa1ce388eadfed5d83a89950c",
+            "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sable-neoforge-1.21.1-2.0.5.jar"
           }
         },
         {
