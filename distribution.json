@@ -1908,6 +1908,28 @@
           }
         },
         {
+          "id": "nld:flerovium-neoforge:1.0.0",
+          "name": "flerovium-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 182579,
+            "MD5": "6448130a8c302a04399957892fba98ab",
+            "path": "mods/flerovium-neoforge-1.21.1-1.1.2-all.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/flerovium-neoforge-1.21.1-1.1.2-all.jar"
+          }
+        },
+        {
+          "id": "nld:immediatelyfast-neoforge:1.0.0",
+          "name": "ImmediatelyFast-NeoForge",
+          "type": "File",
+          "artifact": {
+            "size": 362397,
+            "MD5": "fb50d85c4e8fc4ecb8a9e4c3e7c494df",
+            "path": "mods/ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar"
+          }
+        },
+        {
           "id": "nld:iris-flywheel-compat-neoforge:1.0.0",
           "name": "iris-flywheel-compat-NeoForge",
           "type": "File",
