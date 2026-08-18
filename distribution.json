@@ -599,6 +599,39 @@
           }
         },
         {
+          "id": "nld:aeroblender:1.0.0",
+          "name": "aeroblender",
+          "type": "File",
+          "artifact": {
+            "size": 25451,
+            "MD5": "aef06b72300393fadc49cb7b9e156745",
+            "path": "mods/aeroblender-1.21.1-1.0.0-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/aeroblender-1.21.1-1.0.0-neoforge.jar"
+          }
+        },
+        {
+          "id": "nld:aether:1.0.0",
+          "name": "aether",
+          "type": "File",
+          "artifact": {
+            "size": 40223909,
+            "MD5": "87bb550408f2833299a93980c2f41bb0",
+            "path": "mods/aether-1.21.1-1.5.10-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/aether-1.21.1-1.5.10-neoforge.jar"
+          }
+        },
+        {
+          "id": "nld:aethervillages:1.0.0",
+          "name": "AetherVillages",
+          "type": "File",
+          "artifact": {
+            "size": 647447,
+            "MD5": "96aca81787bd80bd4d58d70384a2dd4d",
+            "path": "mods/AetherVillages-1.21.1-1.0.8-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/AetherVillages-1.21.1-1.0.8-neoforge.jar"
+          }
+        },
+        {
           "id": "nld:alexscaves:1.0.0",
           "name": "alexscaves",
           "type": "File",
@@ -786,6 +819,17 @@
           }
         },
         {
+          "id": "nld:cosmos_infinia:1.0.0",
+          "name": "cosmos_infinia",
+          "type": "File",
+          "artifact": {
+            "size": 11765885,
+            "MD5": "ec798fa92fb8dbf0b9b62df0a437da80",
+            "path": "mods/cosmos_infinia-1.2.1.6-neoforge-1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/cosmos_infinia-1.2.1.6-neoforge-1.21.1.jar"
+          }
+        },
+        {
           "id": "nld:create:1.0.0",
           "name": "create",
           "type": "File",
@@ -951,6 +995,17 @@
           }
         },
         {
+          "id": "nld:deep_aether:1.0.0",
+          "name": "deep_aether",
+          "type": "File",
+          "artifact": {
+            "size": 46236011,
+            "MD5": "160bc77f04008c0a4364d32ab49860d6",
+            "path": "mods/deep_aether-1.21.1-1.1.5.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/deep_aether-1.21.1-1.1.5.1.jar"
+          }
+        },
+        {
           "id": "nld:design-n-decor:1.0.0",
           "name": "Design-n-Decor",
           "type": "File",
@@ -1069,6 +1124,17 @@
             "MD5": "c0e4a3d7182f801b7ba75bf3da0e53fe",
             "path": "mods/gravestone-neoforge-1.21.1-1.0.38.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/gravestone-neoforge-1.21.1-1.0.38.jar"
+          }
+        },
+        {
+          "id": "nld:hammers:1.0.0",
+          "name": "hammers",
+          "type": "File",
+          "artifact": {
+            "size": 98840,
+            "MD5": "96189f1ae0d2db24144484ac3f829d66",
+            "path": "mods/hammers-2.1.5-1.21.1-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/hammers-2.1.5-1.21.1-neoforge.jar"
           }
         },
         {
@@ -1369,6 +1435,17 @@
           }
         },
         {
+          "id": "nld:mowziesmobs:1.0.0",
+          "name": "mowziesmobs",
+          "type": "File",
+          "artifact": {
+            "size": 36042925,
+            "MD5": "5ca87731e5c0b4834a4a2e9a435a5cac",
+            "path": "mods/mowziesmobs-1.21.1-1.8.2.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/mowziesmobs-1.21.1-1.8.2.jar"
+          }
+        },
+        {
           "id": "nld:multipiston:1.0.0",
           "name": "multipiston",
           "type": "File",
@@ -1399,6 +1476,17 @@
             "MD5": "1cb785707bea10cfc5018fe37247963c",
             "path": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+          }
+        },
+        {
+          "id": "nld:owo-lib-neoforge:1.0.0",
+          "name": "owo-lib-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 1221583,
+            "MD5": "4c8323c3d0493f7e82a2287e5ca9df7f",
+            "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
           }
         },
         {
@@ -1773,6 +1861,17 @@
             "MD5": "7141c2d0bb774dc6e4481be32b685179",
             "path": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Controlling-neoforge-1.21.1-19.0.5.jar"
+          }
+        },
+        {
+          "id": "nld:createbetterfps:1.0.0",
+          "name": "createbetterfps",
+          "type": "File",
+          "artifact": {
+            "size": 26547,
+            "MD5": "88827dcbad6f5bf8974c40e6fff77ed5",
+            "path": "mods/createbetterfps-1.21.1-1.1.4.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/createbetterfps-1.21.1-1.1.4.jar"
           }
         },
         {
