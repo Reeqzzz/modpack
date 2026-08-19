@@ -819,6 +819,28 @@
           }
         },
         {
+          "id": "nld:coastersmagnetized:1.0.0",
+          "name": "coastersmagnetized",
+          "type": "File",
+          "artifact": {
+            "size": 242057,
+            "MD5": "6ccd0d70ccb13d1839e1bf564844c7eb",
+            "path": "mods/coastersmagnetized-1.1.0.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/coastersmagnetized-1.1.0.jar"
+          }
+        },
+        {
+          "id": "nld:copycats:1.0.0",
+          "name": "copycats",
+          "type": "File",
+          "artifact": {
+            "size": 1791747,
+            "MD5": "c9f1a4b031cdfab8ebfc06d81e891c43",
+            "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+          }
+        },
+        {
           "id": "nld:cosmos_infinia:1.0.0",
           "name": "cosmos_infinia",
           "type": "File",
@@ -849,6 +871,17 @@
             "MD5": "27e0597b184778e49f1b4d5351bedc60",
             "path": "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create-aeronautics-bundled-1.21.1-1.3.0.jar"
+          }
+        },
+        {
+          "id": "nld:create-central-kitchen:1.0.0",
+          "name": "create-central-kitchen",
+          "type": "File",
+          "artifact": {
+            "size": 488390,
+            "MD5": "935bba621404132b9f50a3597bcd5fd6",
+            "path": "mods/create-central-kitchen-2.6.0.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create-central-kitchen-2.6.0.jar"
           }
         },
         {
@@ -940,6 +973,17 @@
           }
         },
         {
+          "id": "nld:create_connected:1.0.0",
+          "name": "create_connected",
+          "type": "File",
+          "artifact": {
+            "size": 6779410,
+            "MD5": "5ec87500b99fc02cc83f74d995d00044",
+            "path": "mods/create_connected-1.3.2-mc1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create_connected-1.3.2-mc1.21.1.jar"
+          }
+        },
+        {
           "id": "nld:create_enchantment_industry_plus:1.0.0",
           "name": "create_enchantment_industry_plus",
           "type": "File",
@@ -948,6 +992,17 @@
             "MD5": "6e9c873a943b611fb368b7b026253c45",
             "path": "mods/create_enchantment_industry_plus-1.1.1-1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create_enchantment_industry_plus-1.1.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "nld:create_hypertube:1.0.0",
+          "name": "create_hypertube",
+          "type": "File",
+          "artifact": {
+            "size": 546142,
+            "MD5": "4a0e33080646f2e80097d85cf40f7bbf",
+            "path": "mods/create_hypertube-0.6.0-NEOFORGE.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/create_hypertube-0.6.0-NEOFORGE.jar"
           }
         },
         {
@@ -1212,6 +1267,17 @@
             "MD5": "2177d33f1b7e6d917f8b8c399a26378c",
             "path": "mods/journeymap-neoforge-1.21.1-6.0.5.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/journeymap-neoforge-1.21.1-6.0.5.jar"
+          }
+        },
+        {
+          "id": "nld:kotlinforforge:1.0.0",
+          "name": "kotlinforforge",
+          "type": "File",
+          "artifact": {
+            "size": 7279276,
+            "MD5": "93db4ba2044a6667d7d1e3f592d63dbd",
+            "path": "mods/kotlinforforge-5.12.0-all.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/kotlinforforge-5.12.0-all.jar"
           }
         },
         {
@@ -1589,6 +1655,28 @@
           }
         },
         {
+          "id": "nld:simulatedcoasters:1.0.0",
+          "name": "simulatedcoasters",
+          "type": "File",
+          "artifact": {
+            "size": 1892119,
+            "MD5": "629039056d8cebd6be7321c359073fdc",
+            "path": "mods/simulatedcoasters-0.1.5.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/simulatedcoasters-0.1.5.jar"
+          }
+        },
+        {
+          "id": "nld:sliceanddice:1.0.0",
+          "name": "sliceanddice",
+          "type": "File",
+          "artifact": {
+            "size": 1354014,
+            "MD5": "f0ed9a88cc4b2ca56fa976933b042c3f",
+            "path": "mods/sliceanddice-4.3.3-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sliceanddice-4.3.3-neoforge.jar"
+          }
+        },
+        {
           "id": "nld:sophisticatedbackpacks:1.0.0",
           "name": "sophisticatedbackpacks",
           "type": "File",
@@ -1608,6 +1696,28 @@
             "MD5": "0972f0b2cf719d31bcb85f83d9cccfc6",
             "path": "mods/sophisticatedcore-1.21.1-1.4.87.2270.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sophisticatedcore-1.21.1-1.4.87.2270.jar"
+          }
+        },
+        {
+          "id": "nld:sophisticatedstorage:1.0.0",
+          "name": "sophisticatedstorage",
+          "type": "File",
+          "artifact": {
+            "size": 1869212,
+            "MD5": "06b89b72672e2215ad3e6e2945db9436",
+            "path": "mods/sophisticatedstorage-1.21.1-1.5.89.2109.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sophisticatedstorage-1.21.1-1.5.89.2109.jar"
+          }
+        },
+        {
+          "id": "nld:sophisticatedstoragecreateintegration:1.0.0",
+          "name": "sophisticatedstoragecreateintegration",
+          "type": "File",
+          "artifact": {
+            "size": 134163,
+            "MD5": "c2b487174cce707a703991d9c28e1ef4",
+            "path": "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar"
           }
         },
         {
