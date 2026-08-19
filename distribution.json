@@ -1479,6 +1479,28 @@
           }
         },
         {
+          "id": "nld:moogsendstructures:1.0.0",
+          "name": "MoogsEndStructures",
+          "type": "File",
+          "artifact": {
+            "size": 1210283,
+            "MD5": "06ad0ea2923759afded48064e66e5878",
+            "path": "mods/MoogsEndStructures-1.21-2.0.3.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/MoogsEndStructures-1.21-2.0.3.jar"
+          }
+        },
+        {
+          "id": "nld:moogs_structures-neoforge:1.0.0",
+          "name": "moogs_structures-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 336607,
+            "MD5": "6e50c80abf1cd608781e1ce55aaa788d",
+            "path": "mods/moogs_structures-neoforge-1.21.1-3.0.3.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/moogs_structures-neoforge-1.21.1-3.0.3.jar"
+          }
+        },
+        {
           "id": "nld:moonlight:1.0.0",
           "name": "moonlight",
           "type": "File",
@@ -1652,6 +1674,17 @@
             "MD5": "0a0a8665bb4d77e3f8139750cb98d9e4",
             "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/Searchables-neoforge-1.21.1-1.0.2.jar"
+          }
+        },
+        {
+          "id": "nld:servercore-neoforge:1.0.0",
+          "name": "servercore-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 1462674,
+            "MD5": "4fc82f2fe4ad2f93fcbe07130428101b",
+            "path": "mods/servercore-neoforge-1.5.19+1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/servercore-neoforge-1.5.19+1.21.1.jar"
           }
         },
         {
