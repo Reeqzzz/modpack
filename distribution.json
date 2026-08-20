@@ -2291,6 +2291,17 @@
             "path": "config/fancymenu/options.txt",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_options.txt"
           }
+        },
+        {
+          "id": "nld:config:iceandfire/iaf-client.json",
+          "name": "iceandfire/iaf-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 109,
+            "MD5": "4e69fd3995d7effdb6c72e19e4922dfb",
+            "path": "config/iceandfire/iaf-client.json",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/iceandfire_iaf-client.json"
+          }
         }
       ]
     }
