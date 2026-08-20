@@ -1633,6 +1633,17 @@
           }
         },
         {
+          "id": "nld:noisium-neoforge:1.0.0",
+          "name": "noisium-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 60296,
+            "MD5": "caaf072f2e2c6261b37b8359ef8631b1",
+            "path": "mods/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar"
+          }
+        },
+        {
           "id": "nld:owo-lib-neoforge:1.0.0",
           "name": "owo-lib-neoforge",
           "type": "File",
