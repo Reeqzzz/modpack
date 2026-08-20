@@ -753,6 +753,17 @@
           }
         },
         {
+          "id": "nld:c:1.0.0",
+          "name": "c",
+          "type": "File",
+          "artifact": {
+            "size": 3708380,
+            "MD5": "b4d1ff376d4eaa9aa260edb93b1e9d4c",
+            "path": "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar"
+          }
+        },
+        {
           "id": "nld:carryon-neoforge:1.0.0",
           "name": "carryon-neoforge",
           "type": "File",
@@ -2062,6 +2073,28 @@
           }
         },
         {
+          "id": "nld:badoptimizations:1.0.0",
+          "name": "BadOptimizations",
+          "type": "File",
+          "artifact": {
+            "size": 283566,
+            "MD5": "59ee243a5ccd09fff1dd2879b3cad72a",
+            "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/BadOptimizations-2.4.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "nld:bbe-neoforge:1.0.0",
+          "name": "bbe-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 177123,
+            "MD5": "b6225c198dbe4a7b1c471dcde3444865",
+            "path": "mods/bbe-neoforge-1.3.4-beta.3+mc1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/bbe-neoforge-1.3.4-beta.3+mc1.21.1.jar"
+          }
+        },
+        {
           "id": "nld:controlling-neoforge:1.0.0",
           "name": "Controlling-neoforge",
           "type": "File",
@@ -2125,17 +2158,6 @@
             "MD5": "e93722832a5a3e4535db0452d2954c67",
             "path": "mods/fancymenu_neoforge_3.9.10_MC_1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/fancymenu_neoforge_3.9.10_MC_1.21.1.jar"
-          }
-        },
-        {
-          "id": "nld:flerovium-neoforge:1.0.0",
-          "name": "flerovium-neoforge",
-          "type": "File",
-          "artifact": {
-            "size": 182579,
-            "MD5": "6448130a8c302a04399957892fba98ab",
-            "path": "mods/flerovium-neoforge-1.21.1-1.1.2-all.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/flerovium-neoforge-1.21.1-1.1.2-all.jar"
           }
         },
         {
