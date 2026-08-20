@@ -2231,8 +2231,8 @@
           "name": "nldoptimizer",
           "type": "File",
           "artifact": {
-            "size": 6015,
-            "MD5": "1430b91f9b8a365086759cb3bbf636d8",
+            "size": 6336,
+            "MD5": "40ff47c4ec85e85296ac57f670623695",
             "path": "mods/nldoptimizer-1.0.0.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/nldoptimizer-1.0.0.jar"
           }
