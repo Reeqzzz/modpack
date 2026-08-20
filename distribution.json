@@ -1116,6 +1116,17 @@
           }
         },
         {
+          "id": "nld:fallingtree:1.0.0",
+          "name": "FallingTree",
+          "type": "File",
+          "artifact": {
+            "size": 496356,
+            "MD5": "7318bdea54e4c69c1c90650b30fc4bde",
+            "path": "mods/FallingTree-1.21.1-1.21.1.11.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/FallingTree-1.21.1-1.21.1.11.jar"
+          }
+        },
+        {
           "id": "nld:farmerd_naturalist_compat:1.0.0",
           "name": "farmerd_naturalist_compat",
           "type": "File",
@@ -1204,6 +1215,17 @@
           }
         },
         {
+          "id": "nld:iceandfire:1.0.0",
+          "name": "iceandfire",
+          "type": "File",
+          "artifact": {
+            "size": 20773747,
+            "MD5": "a33bfd3d91c2267ed4a9d16c6a9c5a8c",
+            "path": "mods/iceandfire-2.1.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/iceandfire-2.1.1.jar"
+          }
+        },
+        {
           "id": "nld:inventorysorter:1.0.0",
           "name": "inventorysorter",
           "type": "File",
@@ -1270,6 +1292,17 @@
           }
         },
         {
+          "id": "nld:jupiter:1.0.0",
+          "name": "jupiter",
+          "type": "File",
+          "artifact": {
+            "size": 278988,
+            "MD5": "e9d3d142f366cfc1d33030d61f6a1fb2",
+            "path": "mods/jupiter-2.3.7-1.21.1-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/jupiter-2.3.7-1.21.1-neoforge.jar"
+          }
+        },
+        {
           "id": "nld:kotlinforforge:1.0.0",
           "name": "kotlinforforge",
           "type": "File",
@@ -1278,6 +1311,17 @@
             "MD5": "93db4ba2044a6667d7d1e3f592d63dbd",
             "path": "mods/kotlinforforge-5.12.0-all.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/kotlinforforge-5.12.0-all.jar"
+          }
+        },
+        {
+          "id": "nld:krypton_fnp-neoforge:1.0.0",
+          "name": "krypton_fnp-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 1015871,
+            "MD5": "1c215ed088f6d5a32d17656b089bae94",
+            "path": "mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar"
           }
         },
         {
@@ -1311,6 +1355,17 @@
             "MD5": "6103fe4848d0f8289431a0b307efc444",
             "path": "mods/lionfishapi-3.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/lionfishapi-3.1.jar"
+          }
+        },
+        {
+          "id": "nld:lithium-neoforge:1.0.0",
+          "name": "lithium-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 774220,
+            "MD5": "969860e6a6ebe4dc2e2154b56f05483e",
+            "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/lithium-neoforge-0.15.4+mc1.21.1.jar"
           }
         },
         {
@@ -1853,6 +1908,17 @@
           }
         },
         {
+          "id": "nld:uranus:1.0.0",
+          "name": "uranus",
+          "type": "File",
+          "artifact": {
+            "size": 847836,
+            "MD5": "00d7d36be519971eb57016fcdefd5ae3",
+            "path": "mods/uranus-2.4.1-bugfix-1.21.1-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/uranus-2.4.1-bugfix-1.21.1-neoforge.jar"
+          }
+        },
+        {
           "id": "nld:waystones-neoforge:1.0.0",
           "name": "waystones-neoforge",
           "type": "File",
@@ -2026,6 +2092,17 @@
             "MD5": "41953cf1db90494f98f97f915716a016",
             "path": "mods/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "nld:dynamic-fps:1.0.0",
+          "name": "dynamic-fps",
+          "type": "File",
+          "artifact": {
+            "size": 220193,
+            "MD5": "e5ef3e5d37eedad79cf44897229fd8f2",
+            "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
           }
         },
         {
