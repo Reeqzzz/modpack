@@ -2073,6 +2073,17 @@
           }
         },
         {
+          "id": "nld:createbetterfps:1.0.0",
+          "name": "createbetterfps",
+          "type": "File",
+          "artifact": {
+            "size": 26547,
+            "MD5": "88827dcbad6f5bf8974c40e6fff77ed5",
+            "path": "mods/createbetterfps-1.21.1-1.1.4.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/createbetterfps-1.21.1-1.1.4.jar"
+          }
+        },
+        {
           "id": "nld:drippyloadingscreen_neoforge:1.0.0",
           "name": "drippyloadingscreen_neoforge",
           "type": "File",
