@@ -951,6 +951,17 @@
           }
         },
         {
+          "id": "nld:createharmonics-neoforge:1.0.0",
+          "name": "createharmonics-neoforge",
+          "type": "File",
+          "artifact": {
+            "size": 2152787,
+            "MD5": "3b389766d8bf72d309a8df50d1b2ee05",
+            "path": "mods/createharmonics-neoforge-1.21.1-1.1.7.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/createharmonics-neoforge-1.21.1-1.1.7.jar"
+          }
+        },
+        {
           "id": "nld:createoplenty-neoforge-create+:1.0.0",
           "name": "CreateOPlenty-NeoForge-Create+",
           "type": "File",
@@ -1050,6 +1061,17 @@
           }
         },
         {
+          "id": "nld:cupboard:1.0.0",
+          "name": "cupboard",
+          "type": "File",
+          "artifact": {
+            "size": 29598,
+            "MD5": "df9167cd0d4e118e4a0c552ac028b77b",
+            "path": "mods/cupboard-1.21.1-4.0.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/cupboard-1.21.1-4.0.jar"
+          }
+        },
+        {
           "id": "nld:curios-neoforge:1.0.0",
           "name": "curios-neoforge",
           "type": "File",
@@ -1113,6 +1135,17 @@
             "MD5": "827e9c4c003954c1d1a0ebccd1cbf2d9",
             "path": "mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar"
+          }
+        },
+        {
+          "id": "nld:dynview:1.0.0",
+          "name": "dynview",
+          "type": "File",
+          "artifact": {
+            "size": 20613,
+            "MD5": "5546e9039b7968b058992d968cac6610",
+            "path": "mods/dynview-1.21-4.0.jar",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/dynview-1.21-4.0.jar"
           }
         },
         {
