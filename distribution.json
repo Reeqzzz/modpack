@@ -753,17 +753,6 @@
           }
         },
         {
-          "id": "nld:c:1.0.0",
-          "name": "c",
-          "type": "File",
-          "artifact": {
-            "size": 3708380,
-            "MD5": "b4d1ff376d4eaa9aa260edb93b1e9d4c",
-            "path": "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar",
-            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar"
-          }
-        },
-        {
           "id": "nld:carryon-neoforge:1.0.0",
           "name": "carryon-neoforge",
           "type": "File",
