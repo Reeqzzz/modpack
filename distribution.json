@@ -2379,6 +2379,50 @@
             "path": "config/iceandfire/iaf-client.json",
             "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/iceandfire_iaf-client.json"
           }
+        },
+        {
+          "id": "nld:root:ffmpeg/ffmpeg-master-latest-win64-lgpl/bin/ffmpeg.exe",
+          "name": "ffmpeg/ffmpeg-master-latest-win64-lgpl/bin/ffmpeg.exe",
+          "type": "File",
+          "artifact": {
+            "size": 115348480,
+            "MD5": "925d6074a06c6975e223ea4b8f967c3a",
+            "path": "audio_providers/ffmpeg/ffmpeg-master-latest-win64-lgpl/bin/ffmpeg.exe",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/root_ffmpeg_ffmpeg-master-latest-win64-lgpl_bin_ffmpeg.exe"
+          }
+        },
+        {
+          "id": "nld:root:ffmpeg/ffmpeg-master-latest-win64-lgpl/bin/ffprobe.exe",
+          "name": "ffmpeg/ffmpeg-master-latest-win64-lgpl/bin/ffprobe.exe",
+          "type": "File",
+          "artifact": {
+            "size": 115136000,
+            "MD5": "33c379ac370e305e900a0dd95f8240d4",
+            "path": "audio_providers/ffmpeg/ffmpeg-master-latest-win64-lgpl/bin/ffprobe.exe",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/root_ffmpeg_ffmpeg-master-latest-win64-lgpl_bin_ffprobe.exe"
+          }
+        },
+        {
+          "id": "nld:root:ffmpeg/ffmpeg-master-latest-win64-lgpl/license.txt",
+          "name": "ffmpeg/ffmpeg-master-latest-win64-lgpl/LICENSE.txt",
+          "type": "File",
+          "artifact": {
+            "size": 7651,
+            "MD5": "e6a600fd5e1d9cbde2d983680233ad02",
+            "path": "audio_providers/ffmpeg/ffmpeg-master-latest-win64-lgpl/LICENSE.txt",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/root_ffmpeg_ffmpeg-master-latest-win64-lgpl_LICENSE.txt"
+          }
+        },
+        {
+          "id": "nld:root:yt-dlp/yt-dlp.exe",
+          "name": "yt-dlp/yt-dlp.exe",
+          "type": "File",
+          "artifact": {
+            "size": 17840399,
+            "MD5": "ccdbfb9ffc8e8a4780b78609f53da85e",
+            "path": "audio_providers/yt-dlp/yt-dlp.exe",
+            "url": "https://github.com/Reeqzzz/modpack/releases/download/v1.0.0/root_yt-dlp_yt-dlp.exe"
+          }
         }
       ]
     }
